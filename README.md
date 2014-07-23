@@ -3,6 +3,8 @@
 
 原英文版地址[www.eu4wiki.com](http://www.eu4wiki.com)
 
+欧陆风云4是一款由Paradox公司开发的庞大的战略类游戏，是2007年发售的欧陆风云3的下一个版本。
+
 ##目录
 
 * ![guide](https://github.com/ictxiangxin/eu4wiki/raw/master/wiki/image/index/28px-EU4_icon.png)[新手教程](/wiki/guide.md)
@@ -36,4 +38,4 @@
 * ![guide](https://github.com/ictxiangxin/eu4wiki/raw/master/wiki/image/index/28px-May_explore.png)[殖民](/wiki/colonization.md)
 * ![guide](https://github.com/ictxiangxin/eu4wiki/raw/master/wiki/image/index/28px-Technology_cost.png)[MOD](/wiki/mod.md)
 * ![guide](https://github.com/ictxiangxin/eu4wiki/raw/master/wiki/image/index/Administrative_tech.png)[补丁](/wiki/patches.md)
-* ![guide](https://github.com/ictxiangxin/eu4wiki/raw/master/wiki/image/index/Administrative_tech.png)[DLC](/wiki/dlc.md)
+* ![guide](https://github.com/ictxiangxin/eu4wiki/raw/master/wiki/image/index/Income.png)[DLC](/wiki/dlc.md)
